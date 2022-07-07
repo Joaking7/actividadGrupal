@@ -1,4 +1,4 @@
 # actividadGrupal
-Joaquin Bustamante
-Valentina Gimenez
-Blanca Villamayor
+Joaquin Bustamante Virgo
+Valentina Gimenez Piscis
+Blanca Villamayor Aries
